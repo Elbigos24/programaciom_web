@@ -12,3 +12,64 @@ body{
     background-color: rgba(0, 0, 255, 0.425);
 
 }
+
+#header #Title{
+    width: 200px;
+    height: 30px;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+div#columna2{
+    background-color: rgb(153, 153, 153);
+    height: 250px;
+}
+div#columna2 div.cuadrito{
+    background-color: rgb(250, 234, 204);
+    width: 20%;
+    height: 90%;
+    margin-left: 59px;
+    margin-top: 15PX;
+    float: left;
+}
+div#col3{
+    background-color: rgb(75, 2, 2);
+    height: 250px;
+}
+div#col3 div.cuadrito2{
+    background-color: rgb(201, 200, 199);
+    width: 25%;
+    height: 60%;
+    margin-left: 190px;
+    margin-top: 50PX;
+    margin-right: 165px;
+    float: left;
+}
+div#col4{
+    background-color: rgb(153, 153, 153);
+    height: 110px;
+}
+
+div#col4 div.cuadrito3{
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    height: 70%;
+    margin-top: 15px;
+    margin-left: 80%;
+    float: left;
+}
+
+div#col5{
+    background-color: rgb(134, 64, 64);
+    height: 110px;
+}
+
+div#col5 div.cuadrito4{
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 70%;
+    margin-top: 15px;
+    margin-left: 46%;
+    float: left;
+}
